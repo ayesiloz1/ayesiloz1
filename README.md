@@ -20,7 +20,7 @@ I've created web applications using React, Django, and MySQL. Additionally, I ex
 
 ### Badges
 ![Agit's Wake Time](https://github-readme-stats.vercel.app/api/wakatime?username=ayesiloz)
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/ayesiloz1"><img src="https://github-readme-stats.vercel.app/api?username=ayesiloz1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ayesiloz1's GitHub stats" /></a>
 
